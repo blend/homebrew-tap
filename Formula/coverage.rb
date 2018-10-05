@@ -3,7 +3,7 @@ class Coverage < Formula
   homepage "https://github.com/blend/go-sdk/tree/master/cmd/coverage/README.md"
   url "https://github.com/blend/go-sdk/releases/download/v0.1.0/coverage_0.1.0_darwin_amd64.tar.gz"
   version "0.1.0"
-  sha256 "55b21e1e8ff9dea8d0fe0ea46729e262308c4e1f3ec30159a2036a6fd99e0960"
+  sha256 "d659042869fa6bb28f0ef84b9ae144c12ab09239a084149445de663b48d9d438"
   
   depends_on "go"
 

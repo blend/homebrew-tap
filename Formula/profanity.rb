@@ -1,9 +1,9 @@
 class Profanity < Formula
   desc "Apply profanity rules to a directory tree."
   homepage "https://github.com/blend/go-sdk/tree/master/cmd/profanity/README.md"
-  url "https://github.com/blend/go-sdk/releases/download/v0.3.1/profanity_0.3.1_darwin_amd64.tar.gz"
-  version "0.3.1"
-  sha256 "98de001654c9006e41ad873a3a827a247feff80f71c98ca0f23941ba273a0549"
+  url "https://github.com/blend/go-sdk/releases/download/v0.3.3/profanity_0.3.3_darwin_amd64.tar.gz"
+  version "0.3.3"
+  sha256 "d3d990408ff78afd32f53b7e083d6fab2837feae1a0ed7f76ee9505ea55f690a"
 
   def install
     bin.install "profanity"
